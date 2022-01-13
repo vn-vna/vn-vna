@@ -21,7 +21,7 @@
 <li>😍 Contact me:</li>
 
 [![Email](https://img.shields.io/badge/Email-vn.vna@outlook.com-blue?style=for-the-badge&logo=microsoft)](mailto:vnvna@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Hardi+V%C5%A9-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/aka.twc)
+[![Facebook](https://img.shields.io/badge/Facebook-Hardi%20V%C5%A9-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/aka.twc)
 [![Discord](https://img.shields.io/badge/Discord-VNA%238380-purple?style=for-the-badge&logo=discord)]()
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-VN%20VNA-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14163804/vn-vna)
 
