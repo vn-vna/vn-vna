@@ -13,7 +13,7 @@
 <b>Who am I?</b>
 
 <li>😸 I'm <i>Ngoc Anh Vu</i>, you can call me <i>VNA</i></li>
-<li>🤠 Gender: Female</li>
+<li>🤠 Gender: Male</li>
 <li>👌 I'm trying to become a game developer.</li>
 <li>🎓 I'm currently learning information technology at university.</li>
 <li>🤤 My hobbies are coding, reading light novels, playing games...</li>
