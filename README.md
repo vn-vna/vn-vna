@@ -1,8 +1,10 @@
 <h1 align="center">
     <b size="30px">-~ Hi 👋 ~-</b>
-    <br/>
-    <small>Welcome to my github profile</small>
 </h1>
+
+<div align="center">
+    Welcome to my github profile
+</div>
 
 <img src="https://i.imgur.com/qDa9eSX.jpg"/>
 <div align="center">
@@ -28,9 +30,10 @@
 <br/>
 <h1 align="center">
     <b>-~ 🎓 Knowlege & Skills ~-</b>
-    <br/>
-    <small>What I can work with</small>
 </h1>
+<div align="center">
+    What I can work with
+</div>
 
 <b>Languages and Frameworks:</b>
 
@@ -47,13 +50,14 @@
 <br />
 <b>Operating systems:</b>
 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=blue&labelColor=black)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=red&labelColor=black)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=black)
 
 <br/>
 <h1 align="center">
     <b>-~ Thanks for reading ~-</b>
-    <br/>
-    <small>I'd love to see you again</small>
 </h1>
+<div align="center">
+    I'd love to see you again
+</div>
