@@ -34,14 +34,15 @@
 
 <b>Languages and Frameworks:</b>
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Vulkan-red?style=for-the-badge&logo=vulkan&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/LWJGL-orange?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=black)
+![](https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=red&labelColor=black)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red&labelColor=black)
+![](https://img.shields.io/badge/LWJGL-gray?style=for-the-badge&logo=java&logoColor=red&labelColor=black)
+![](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue&labelColor=black)
 
 <br />
 <b>Operating systems:</b>
