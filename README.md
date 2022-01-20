@@ -29,30 +29,59 @@
 
 <br/>
 <h1 align="center">
-    <b>-~ 🎓 Knowlege & Skills ~-</b>
+    <b>-~ 🎓 Knowlege & Skills 🎓 ~-</b>
 </h1>
 <div align="center">
     What I can work with
 </div>
 
 <b>Languages and Frameworks:</b>
+<div align="center">
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=black)
-![](https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=red&labelColor=black)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red&labelColor=black)
-![](https://img.shields.io/badge/LWJGL-gray?style=for-the-badge&logo=java&logoColor=red&labelColor=black)
-![](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue&labelColor=black)
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=black" />
+<img src="https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=red&labelColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red&labelColor=black" />
+<img src="https://img.shields.io/badge/LWJGL-gray?style=for-the-badge&logo=java&logoColor=red&labelColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue&labelColor=black" />
+</div>
 
 <br />
 <b>Operating systems:</b>
 
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=blue&labelColor=black)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=red&labelColor=black)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=black)
+<div align="center">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=blue&labelColor=black" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=red&labelColor=black" />
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=blue&labelColor=black" />
+</div>
+
+<b>Dashboard:</b>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn-vna&theme=solarized_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn-vna&theme=solarized_dark" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn-vna&theme=solarized_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn-vna&theme=solarized_dark" />
+</div>
+
+
+<br/>
+<h1 align="center">
+    <b>-~ ✅ My activities ✅ ~-</b>
+</h1>
+<div align="center">
+    Let's see
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn-vna&theme=solarized_dark" />
+</div>
 
 <br/>
 <h1 align="center">
