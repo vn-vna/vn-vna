@@ -22,11 +22,15 @@
 <li>❤️ I love the cute cat girls.</li>
 <li>😍 Contact me:</li>
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-vn.vna@outlook.com-blue?style=for-the-badge&logo=microsoft)](mailto:vnvna@outlook.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Hardi%20V%C5%A9-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/aka.twc)
 [![Discord](https://img.shields.io/badge/Discord-VNA%238380-purple?style=for-the-badge&logo=discord)]()
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-VN%20VNA-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14163804/vn-vna)
 
+</div>
+    
 <br/>
 <h1 align="center">
     <b>-~ 🎓 Knowlege & Skills 🎓 ~-</b>
@@ -39,7 +43,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=black" />
-<img src="https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoColor=red&labelColor=black" />
+<img src="https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=opengl&logoColor=blue&labelColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red&labelColor=black" />
 <img src="https://img.shields.io/badge/LWJGL-gray?style=for-the-badge&logo=java&logoColor=red&labelColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black" />
