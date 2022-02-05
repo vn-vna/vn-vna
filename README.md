@@ -6,11 +6,6 @@
     Welcome to my github profile
 </div>
 
-<img src="https://i.imgur.com/qDa9eSX.jpg"/>
-<div align="center">
-    <small><i>Artwork Illustrated by Tokuno Yuika</i></small>
-</div>
-
 <br/>
 <b>Who am I?</b>
 
