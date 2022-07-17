@@ -3,13 +3,16 @@
 </h1>
 
 <div align="center">
+    <img src="https://avatars.githubusercontent.com/u/63695659?s=400&u=a7c9cdfc22bfbd9928968071c9cfd74445c2da80&v=4">
+    <br />
     Welcome to my github profile
+
 </div>
 
 <br/>
 <b>Who am I?</b>
 
-<li>😸 I'm <i>Ngoc Anh Vu</i>, you can call me <i>VNA</i></li>
+<li>😸 I'm <i>Vu Ngoc Anh</i>, you can call me <i>VNA</i></li>
 <li>🤠 Gender: Male</li>
 <li>👌 I'm trying to become a game developer.</li>
 <li>🎓 I'm currently learning information technology at university.</li>
@@ -20,7 +23,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vn.vna@outlook.com-blue?style=for-the-badge&logo=microsoft)](mailto:vnvna@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Hardi%20V%C5%A9-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/aka.twc)
+[![Facebook](https://img.shields.io/badge/Facebook-Vu%20Ngoc%20Anh-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/aka.twc)
 [![Discord](https://img.shields.io/badge/Discord-VNA%238380-purple?style=for-the-badge&logo=discord)]()
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-VN%20VNA-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14163804/vn-vna)
 
@@ -83,7 +86,7 @@
 
 <br/>
 <h1 align="center">
-    <b>-~ Thanks for reading ~-</b>
+    <b>-~ 💖 Thanks for reading 💖 ~-</b>
 </h1>
 <div align="center">
     I'd love to see you again
