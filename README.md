@@ -17,7 +17,6 @@
 <li>👌 I'm trying to become a game developer.</li>
 <li>🎓 I'm currently learning information technology at university.</li>
 <li>🤤 My hobbies are coding, reading light novels, playing games...</li>
-<li>❤️ I love the cute cat girls.</li>
 <li>😍 Contact me:</li>
 
 <div align="center">
