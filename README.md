@@ -85,6 +85,16 @@
 
 <br/>
 <h1 align="center">
+    <b>-~ 🐾 References 🐾 ~-</b>
+</h1>
+<div align="center">
+    Some external resource is used by this README
+</div>
+<li>Cover image artist: <a href="https://www.pixiv.net/en/users/4478165">辰</a></li>
+<li>Cover image source: <a href="https://www.pixiv.net/en/artworks/72075161">Pixiv</a></li>
+
+<br/>
+<h1 align="center">
     <b>-~ 💖 Thanks for reading 💖 ~-</b>
 </h1>
 <div align="center">
