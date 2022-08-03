@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/63695659?s=400&u=a7c9cdfc22bfbd9928968071c9cfd74445c2da80&v=4">
+    <img src="https://i.imgur.com/8Vpt3LA.jpg">
     <br />
     Welcome to my github profile
 
