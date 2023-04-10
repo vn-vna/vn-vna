@@ -23,7 +23,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vn.vna@outlook.com-blue?style=for-the-badge&logo=microsoft)](mailto:vnvna@outlook.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Vu%20Ngoc%20Anh-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/aka.twc)
+[![Facebook](https://img.shields.io/badge/Facebook-Vu%20Ngoc%20Anh-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/vna.kyune)
 [![Discord](https://img.shields.io/badge/Discord-VNA%238380-purple?style=for-the-badge&logo=discord)]()
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-VN%20VNA-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14163804/vn-vna)
 [![MyAnimeList](https://img.shields.io/static/v1?style=for-the-badge&message=VNA_Shiro&color=2E51A2&logo=MyAnimeList&logoColor=FFFFFF&label=MAL)](https://myanimelist.net/profile/VNA_Shiro)
